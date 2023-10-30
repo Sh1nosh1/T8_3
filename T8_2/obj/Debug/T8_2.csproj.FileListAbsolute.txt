@@ -1,0 +1,8 @@
+D:\ОвчарукМарков 215\T8_2\bin\Debug\T8_2.exe.config
+D:\ОвчарукМарков 215\T8_2\bin\Debug\T8_2.exe
+D:\ОвчарукМарков 215\T8_2\bin\Debug\T8_2.pdb
+D:\ОвчарукМарков 215\T8_2\obj\Debug\T8_2.csproj.AssemblyReference.cache
+D:\ОвчарукМарков 215\T8_2\obj\Debug\T8_2.csproj.SuggestedBindingRedirects.cache
+D:\ОвчарукМарков 215\T8_2\obj\Debug\T8_2.csproj.CoreCompileInputs.cache
+D:\ОвчарукМарков 215\T8_2\obj\Debug\T8_2.exe
+D:\ОвчарукМарков 215\T8_2\obj\Debug\T8_2.pdb
